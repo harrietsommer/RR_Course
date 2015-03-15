@@ -2,3 +2,9 @@
 
 x <- 1:10
 plot(x)
+plot(1-x)
+plot(x, main="second plot")
+
+# Some more code
+
+print(x)
